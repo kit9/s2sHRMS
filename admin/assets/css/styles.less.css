@@ -1,0 +1,7 @@
+@import "http://localhost/shared/components/modules/admin/tables/datatables/assets/lib/extras/TableTools/media/css/TableTools.css";
+@import "http://localhost/shared/components/modules/admin/tables/datatables/assets/lib/extras/ColVis/media/css/ColVis.css";
+@import "http://localhost/shared/components/modules/admin/tables/datatables/assets/custom/css/DT_bootstrap.css";
+@import "assets/components/modules/admin/tables/classic/assets/less/tables.less";
+@import "http://localhost/shared/components/modules/admin/tables/datatables/assets/custom/less/datatables.less";
+@import "assets/components/modules/admin/ui/pagination/pagination-bootstrap/assets/pagination.less";
+
